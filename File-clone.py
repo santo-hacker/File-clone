@@ -1,4 +1,3 @@
-
 # Obfuscated with PyObfuscate
 # https://www.github.com/htr-tech
 # Time : Sat Aug 24 05:24:57 2024
